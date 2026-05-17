@@ -34,9 +34,6 @@ Through this project, I learned:
 - Improve animations and transitions  
 - Convert into multi-page website  
 - Add real backend form functionality
-- 
-## 📸 Project Preview
-Screen recording and screenshots of the project are attached separately.
 
 ## 👩‍💻 Author
 Created by ismath-dev
